@@ -14,4 +14,4 @@ spec:
   type: service
   lifecycle: dev-env
   owner: tanzu-team
-  system: java-web-services
+  system: java
