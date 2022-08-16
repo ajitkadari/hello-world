@@ -13,5 +13,5 @@ metadata:
 spec:
   type: service
   lifecycle: dev-env
-  owner: core-tanzu-team
+  owner: tanzu-team
   system: java-web-services
